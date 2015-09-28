@@ -1,3 +1,6 @@
+/* 
+Removed Helper as it is now directly available on post
+
 Template.postItem.helpers({
   ownPost: function() {
     return this.userId === Meteor.userId();
@@ -12,3 +15,4 @@ Template.postItem.helpers({
 	}
 });
 
+*/
